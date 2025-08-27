@@ -9,7 +9,6 @@ setup(
     python_requires=">=3.9",
     setup_requires=["setuptools>=62.3.0"],
     install_requires=[
-        "mani_skill_nightly",
         "tensorboard",
         "wandb"
     ]
